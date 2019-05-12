@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TopNoticeView</string>
+    <string name="notice_info">这是测试消息</string>
+</resources>
